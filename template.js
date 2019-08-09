@@ -9,7 +9,7 @@ const template = () => {
         <div id="root"></div>
         <script type="text/javascript" src="/dist/bundle.js"></script>
       </body>
-    </html>`
-}
+    </html>`;
+};
 
-module.exports  = template;
+module.exports = template;
